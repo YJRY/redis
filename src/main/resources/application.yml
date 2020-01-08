@@ -1,10 +1,10 @@
 spring:
-  #ÅäÖÃredis·şÎñÆ÷
+  #é…ç½®redisæœåŠ¡å™¨
   redis:
     host: localhost
     port: 6379
     timeout: 3000
-    #ÅäÖÃredisÁ¬½Ó³Ø
+    #é…ç½®redisè¿æ¥æ± 
     jedis:
       pool:
         min-idle: 5
